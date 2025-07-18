@@ -7,7 +7,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSw8u0aPbGeOtNHMC17aBLETfZmkx3fejOfWA&usqp=CAU" border="0" alt="Nuvem de conectividade" height="35" />
 <br><br>
 
-- 🔭 I’m currently working at **BRQ Digital Solutions**. 
+- 🔭 I’m currently working at **CI&T**. 
 Working with <a href="https://stackshare.io/claratavaresilva/my-stack">this stack</a>.
     
 - 🌱 I’m currently studing **AI, Algorithms and Good Practices**.
